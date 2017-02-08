@@ -13,6 +13,9 @@
 "short_description":
 	{"required":true},
 "image":
-	{"type":"image"},
+	{"required":true,"type":"image"},
+ 
+"image1":
+	{"required":true,"type":"image"},
 "contents":
-	{"type":"richtext","required":true,"hint":"Write the detailed description"}}
+	{"type":"richtext","hint":"Write the detailed description"}}
